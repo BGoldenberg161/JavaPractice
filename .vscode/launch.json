@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Kata0202",
+            "request": "launch",
+            "mainClass": "Kata0202",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kata0201",
+            "request": "launch",
+            "mainClass": "Kata0201",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeWar1",
+            "request": "launch",
+            "mainClass": "codeWar1",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kata0122",
+            "request": "launch",
+            "mainClass": "Kata0122",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kata0122$Main",
+            "request": "launch",
+            "mainClass": "Kata0122$Main",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kata0121",
+            "request": "launch",
+            "mainClass": "Kata0121",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kata0120",
+            "request": "launch",
+            "mainClass": "Kata0120",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kata0119",
+            "request": "launch",
+            "mainClass": "Kata0119",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kata",
+            "request": "launch",
+            "mainClass": "Kata",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
