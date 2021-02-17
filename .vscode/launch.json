@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Isograms",
+            "request": "launch",
+            "mainClass": "Isograms",
+            "projectName": "SMTKatas_752b8ee2"
+        },
+        {
+            "type": "java",
             "name": "Launch Kata0202",
             "request": "launch",
             "mainClass": "Kata0202",
